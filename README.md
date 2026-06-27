@@ -63,7 +63,7 @@ MiMo Code implements ACP using the official `@agentclientprotocol/sdk`. When con
 
 MiMo Code is registered in the [ACP Registry](https://agentclientprotocol.com/registry).
 
-**PR:** [agentclientprotocol/registry#409](https://github.com/agentclientprotocol/registry/pull/409) (merged)
+**PR:** [agentclientprotocol/registry#409](https://github.com/agentclientprotocol/registry/pull/409) 
 
 ## Contributing
 
