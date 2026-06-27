@@ -1,4 +1,8 @@
-# MiMo Code — ACP Registry Entry
+<p align="center">
+  <img src="registry-entry/mimo-wordmark.svg" alt="MiMo Code" height="24">
+</p>
+
+<h1 align="center">MiMo Code — ACP Registry Entry</h1>
 
 This repository contains the [ACP Registry](https://github.com/agentclientprotocol/registry) entry for [MiMo Code](https://github.com/XiaomiMiMo/MiMo-Code).
 

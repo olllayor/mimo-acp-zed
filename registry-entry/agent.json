@@ -1,13 +1,11 @@
 {
-  "id": "mimocode",
+  "id": "MiMoCode",
   "name": "MiMo Code",
   "version": "0.1.3",
   "description": "MiMo Code: Where Models and Agents Co-Evolve — terminal-native AI coding assistant with persistent memory, intelligent context management, and self-improvement.",
   "repository": "https://github.com/XiaomiMiMo/MiMo-Code",
   "website": "https://mimo.xiaomi.com/mimocode",
-  "authors": [
-    "Xiaomi MiMo"
-  ],
+  "authors": ["Xiaomi MiMo"],
   "license": "MIT",
   "icon": "./icon.svg",
   "distribution": {
