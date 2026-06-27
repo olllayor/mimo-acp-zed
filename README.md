@@ -28,21 +28,17 @@ MiMo Code is a terminal-native AI coding assistant that speaks the [Agent Client
 
 ## Quick Start
 
-### Install
+### Install via Registry
+
+MiMo Code is available in the [ACP Registry](https://agentclientprotocol.com/registry). Install directly from your editor's agent marketplace.
+
+### Or install manually
 
 ```bash
 curl -fsSL https://mimo.xiaomi.com/install | bash
 ```
 
-or
-
-```bash
-npm install -g @mimo-ai/cli
-```
-
-### Connect to Zed
-
-Add to your Zed `settings.json`:
+Then add to your Zed `settings.json`:
 
 ```json
 {
@@ -55,12 +51,6 @@ Add to your Zed `settings.json`:
 }
 ```
 
-### Verify it works
-
-```bash
-echo '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":1}}' | mimo acp
-```
-
 ## How it works
 
 MiMo Code implements ACP using the official `@agentclientprotocol/sdk`. When connected to an editor, it exposes:
@@ -71,9 +61,9 @@ MiMo Code implements ACP using the official `@agentclientprotocol/sdk`. When con
 
 ## Registry
 
-This repository contains the [ACP Registry](https://github.com/agentclientprotocol/registry) entry for MiMo Code. The `registry-entry/` directory holds the submission files.
+MiMo Code is registered in the [ACP Registry](https://agentclientprotocol.com/registry).
 
-**Current PR:** [agentclientprotocol/registry#409](https://github.com/agentclientprotocol/registry/pull/409)
+**PR:** [agentclientprotocol/registry#409](https://github.com/agentclientprotocol/registry/pull/409) (merged)
 
 ## Contributing
 
